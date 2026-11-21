@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/PandaHun/LeetCode/tree/master/0567-permutation-in-string) |
+## Array
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/PandaHun/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Matrix
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/PandaHun/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Prefix Sum
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/PandaHun/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
