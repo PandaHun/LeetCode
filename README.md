@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/PandaHun/LeetCode/tree/master/0567-permutation-in-string) |
+| [2043-simple-bank-system](https://github.com/PandaHun/LeetCode/tree/master/2043-simple-bank-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/PandaHun/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/PandaHun/LeetCode/tree/master/0057-insert-interval) |
+| [2043-simple-bank-system](https://github.com/PandaHun/LeetCode/tree/master/2043-simple-bank-system) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/PandaHun/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Matrix
 |  |
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/PandaHun/LeetCode/tree/master/0056-merge-intervals) |
+## Design
+|  |
+| ------- |
+| [2043-simple-bank-system](https://github.com/PandaHun/LeetCode/tree/master/2043-simple-bank-system) |
+## Simulation
+|  |
+| ------- |
+| [2043-simple-bank-system](https://github.com/PandaHun/LeetCode/tree/master/2043-simple-bank-system) |
 <!---LeetCode Topics End-->
