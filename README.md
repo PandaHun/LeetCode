@@ -44,9 +44,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/PandaHun/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [2043-simple-bank-system](https://github.com/PandaHun/LeetCode/tree/master/2043-simple-bank-system) |
 ## Simulation
 |  |
 | ------- |
 | [2043-simple-bank-system](https://github.com/PandaHun/LeetCode/tree/master/2043-simple-bank-system) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/PandaHun/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/PandaHun/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
