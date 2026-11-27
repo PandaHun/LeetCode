@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/PandaHun/LeetCode/tree/master/0567-permutation-in-string) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/PandaHun/LeetCode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 ## Sliding Window
 |  |
 | ------- |
